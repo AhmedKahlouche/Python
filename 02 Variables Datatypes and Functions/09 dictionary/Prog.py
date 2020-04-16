@@ -33,3 +33,4 @@ def getDef(word,i=0):
 # this part of the code is only run if the program is executed as a script
 if __name__ == "__main__":
     print(getDef(input("Enter a Word: ")))
+    print("this is it, have fun idiot")
